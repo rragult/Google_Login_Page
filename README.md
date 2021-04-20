@@ -1,2 +1,2 @@
 # Google_Search_Page
-Responsive login page using HTML5, CSS, Bootstrap
+Responsive Google like Search page using HTML5, CSS, Bootstrap
